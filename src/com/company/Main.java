@@ -15,6 +15,9 @@ public class Main {
         deska.size=123;
         deska.color="grey";
 
+        Bed bed=new Bed();
+        bed.size="queens";
+
 
     }
 }
